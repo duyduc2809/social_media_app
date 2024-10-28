@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59668982536",
+    "project_id": "socialapptutorial-27d1a",
+    "storage_bucket": "socialapptutorial-27d1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59668982536:android:199bb54572fae344a4dabd",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8uVq_FGl9TRsh65_gT_caegkbK3XYUOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
